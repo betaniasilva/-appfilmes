@@ -1,0 +1,10 @@
+.titulo {
+  display: flex;
+  background-color: rgb(233, 112, 37);
+  color: white;
+}
+
+.logo {
+  height: 100px;
+  margin: 15px;
+}

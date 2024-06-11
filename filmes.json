@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Amigos Imaginários",
+    "genero": "Comédia",
+    "duracao": 108,
+    "foto": "https://www.cineflix.com.br/wp-content/uploads/2024/02/amigos-imaginarios-482x708.jpg",
+    "sinopse": "Uma garota descobre que consegue ver os amigos imaginários de todas as pessoas, mesmo aqueles esquecidos por crianças que já cresceram.",
+    "nota": 0,
+    "comentario": "" 
+  },
+  {
+    "titulo": "Garfield: Fora de Casa",
+    "genero": "Animação",
+    "duracao": 102,
+    "foto": "https://www.cineflix.com.br/wp-content/uploads/2024/04/Garfield-foradecasa-472x708.jpg",
+    "sinopse": "Garfield tem uma aventura selvagem com seu pai perdido, Vic, e seu amigo Odie, em um assalto hilariante e arriscado.",
+    "nota": 4.5,
+    "comentario": "Bom para ver com as crianças. Gostei" 
+  },
+  {
+    "titulo": "Planeta dos Macacos",
+    "genero": "Ação",
+    "duracao": 138,
+    "foto": "https://www.cineflix.com.br/wp-content/uploads/2024/02/planeta-dos-macacos-o-reinado-482x708.jpg",
+    "sinopse": "Várias gerações após o reinado de César, os macacos são a espécie dominante, vivendo harmoniosamente, e os humanos foram reduzidos a viver nas sombras.",
+    "nota": 4.0,
+    "comentario": "História tradicional, porém, com muita ação!" 
+  }
+]
